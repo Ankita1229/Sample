@@ -5,5 +5,10 @@ live long and prosperous
 this  line gives details of the changes made
 
 the best way to predict the future is to create it --Peter drucker
+<<<<<<< HEAD
 
 you're learning github
+=======
+=======
+if you can dream, you can do it --Walt disney
+>>>>>>> c80501a0172c3081343d9d12d9007394f7da3988
