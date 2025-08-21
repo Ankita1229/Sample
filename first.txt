@@ -1,3 +1,5 @@
 This is the first git exercise
 
 live long and prosperous
+
+if you can dream, you can do it --Walt disney
