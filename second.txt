@@ -1,3 +1,7 @@
 this is a branch file with name "second"
 
+<<<<<<< HEAD
 i like red
+=======
+i like dark blue
+>>>>>>> colour
