@@ -19,3 +19,5 @@ Test changes 1
 >>>>>>> 5ca79342840677cb2696183054400ddb4f6eb041
 
 Test Changes to file from local 1
+
+Test changes to file from remote 2
