@@ -8,5 +8,3 @@ this  line gives details of the changes made
 the best way to predict the future is to create it --Peter drucker
 =======
 if you can dream, you can do it --Walt disney
-
-you shud do it
