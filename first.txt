@@ -1,3 +1,7 @@
 This is the first git exercise
 
 live long and prosperous
+
+this  line gives details of the changes made
+
+the best way to predict the future is to create it --Peter drucker
